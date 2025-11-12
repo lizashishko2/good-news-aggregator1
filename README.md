@@ -1,4 +1,4 @@
-# good-news-aggregator
+# good-news-aggregator1
 Aggregator of positive news with admin panel and user preferences
 
 
